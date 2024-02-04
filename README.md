@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maira-Aqeel
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate with ... nothing, just me
+- 💞️ I’m looking to collaborate with ... noone, just me
 - 📫 How to reach me .. dont reach me pls
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: Giraffes are 30 times more likely to get hit by lightning than people. 
